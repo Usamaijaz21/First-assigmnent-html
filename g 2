@@ -1,0 +1,29 @@
+<html>
+    <h1><br /><b>J.K.M.B Malik HIgh School</b></h1>
+    <body>
+    <h2>Admission From</h2><hr />
+    <h1>Personal Information</h1>
+    <form>
+     <p> NAME: <input type="text" placeholder="Full Name"></p>
+     <p>FATHER'S NAME:  <input type="text" placeholder="Father Name">
+     <P>CNIC:  <input type="Number" placeholder="C.I.N.C Number"></p>
+     <p>FAVORITE COLOR:  <input  type="Color"></p>
+     <p> D-O-B:   <input  type="Date"></p>
+     <p>EMAIL:    <input  type="Email" required placeholder="abc@gmail.com"></p>
+     <hr />
+     <h1>Personal Information</h1>
+     <P>CITY NAME: <INput type="City Name" placeholder="City Name"></P>
+     <P>PROVINCE:  <select> 
+     <option>Punjab</option> 
+     <option>Sindh</option>
+     <option>Balochistan</option> 
+     <option>KPK</option></select></P>
+     <p> COUNTRY: </p> <select> 
+     <option>Pakistan</option> 
+     <option>USA</option>
+     <option>UK</option>
+     </select>
+     <p>GANDER:</p>  <input type="radio"  Name="gendar">Male
+     <input type="radio"  Name="gendar">Female
+     <input type="radio"  Name="gendar">Other
+     <hr />
